@@ -10,6 +10,7 @@
   "dependencies": {
     "babel-plugin-dotenv-import": "^2.1.0",
     "expo": "~39.0.2",
+    "expo-notifications": "~0.7.2",
     "expo-status-bar": "~1.0.2",
     "firebase": "7.9.0",
     "react": "16.13.1",

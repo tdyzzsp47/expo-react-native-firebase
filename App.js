@@ -6,12 +6,14 @@ import firebase from './firebase';
 
 import Auth from './components/Auth'
 import DB from './components/DB'
+import PushNotification from './components/PushNotification'
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Auth />
       <DB />
+      <PushNotification />
     </View>
   );
 }
